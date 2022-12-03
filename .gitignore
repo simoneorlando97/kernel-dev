@@ -1,0 +1,5 @@
+/obj
+/out
+os-image.bin
+/src/kernel/*.o
+/src/drivers/*.o
